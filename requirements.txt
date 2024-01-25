@@ -1,0 +1,9 @@
+# Notebook requirements
+ipykernel==6.29.0
+
+# Deep learning framework
+torch==2.1.2
+torchvision==0.16.2
+
+# Utilities
+matplotlib==3.8.2
